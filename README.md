@@ -13,7 +13,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
     <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" alt="TetstRail" width="40" height="40"/>&nbsp 
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX///84dcU4dcU4dcY5dcU4dcU4dcU4dMU4dcU4dcU5dsY4dMM4dcU4dcUe0kOvAAAADXRSTlMAm+20F4XKTNhYJGOhP01jngAAAI9JREFUKM9jYAADRl0TBhQQe/cyCp8l9+6lAhSB3rt3J6Aosb17wwFFYNndblRDWWaiKiAEvM9AQAjCVRBwB2EnBFyDCWyCCmjCBLjKy2XvXi4vX4Bk7t67F1EtGsQCqNHAUIvwKgQsQosXBre7dzNdVk9BCLACg6ND9ypKXALBZZSYAoJ05JjapnspFRRZAIB7X/tHWGZ2AAAAAElFTkSuQmCC" title="TestIt" alt="TestIt" width="40" height="40"/>&nbsp 
+  <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="TestIt" alt="TestIt" width="40" height="40"/>&nbsp 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 </div>
     Тестирование мобильных приложений:
